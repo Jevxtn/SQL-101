@@ -1,15 +1,14 @@
 <div align="center">
   <br>
-  <h1>SQL 🛢️</h1>
+  <h1>SQL 🛢️ 101</h1>
   <strong>GitHub repo with beginner-friendly problems in SQL</strong>
 </div>
 <br>
 
-Welcome to SQL GitHub repo! We are super excited to have you. Here, you will find all the solutions to the Codédex exercises. Feel free to make pull requests to add your own twists on the exercises!
+Welcome to SQL GitHub repo! We are super excited to have you. Feel free to make pull requests to add your own twists on the exercises!
 
-### Website: www.codedex.io/sql
+### Website: https://en.wikipedia.org/wiki/SQL
 
-<!-- ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> Queries -->
 
 ## Queries
 
@@ -36,4 +35,3 @@ Welcome to SQL GitHub repo! We are super excited to have you. Here, you will fin
 
 ---
 
-Make sure to join the [community](https://www.codedex.io/community) and [Codédex Club](https://www.codedex.io/pricing) for more content! 💖
