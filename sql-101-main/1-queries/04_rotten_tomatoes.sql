@@ -1,5 +1,4 @@
 -- Rotten Tomatoes 🤢
--- Codédex
 
 SELECT *
 FROM shows
