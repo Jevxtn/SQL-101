@@ -1,5 +1,5 @@
 -- NYC Restaurants 😋
--- Codédex
+
 
 SELECT *
 FROM restaurants;
