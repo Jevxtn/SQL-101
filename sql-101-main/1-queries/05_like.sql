@@ -1,5 +1,4 @@
 -- Like 😂
--- Codédex
 
 SELECT * 
 FROM shows 
