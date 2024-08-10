@@ -1,5 +1,4 @@
 -- Video Games 🎮
--- Codédex
 
 SELECT title, year, MAX(players)
 FROM games;
