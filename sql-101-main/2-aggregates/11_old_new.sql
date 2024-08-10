@@ -1,5 +1,4 @@
 -- Old & New ⏳
--- Codédex
 
 SELECT title, artist, MIN(year)
 FROM playlist;
