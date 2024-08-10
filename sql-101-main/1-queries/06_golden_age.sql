@@ -1,5 +1,4 @@
 -- Golden Age 🌟
--- Codédex
 
 SELECT id, name, year
 FROM shows
